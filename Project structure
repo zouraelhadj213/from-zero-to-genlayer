@@ -1,0 +1,7 @@
+from-zero-to-genlayer-tutorial/
+├── README.md
+├── contracts/
+│   └── HelloWorld.py
+├── frontend/                  # (اختياري - يمكن إضافته لاحقاً)
+├── images/                    # صور الـ tutorial
+└── .gitignore
